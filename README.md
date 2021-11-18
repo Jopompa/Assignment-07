@@ -15,12 +15,17 @@ This is the small frame prototype I have developed from the much larger desktop 
 <img src="Wireflow.png"> </a>
 
 ## Prototype 
-Link to Interactive prototype can be found <a href=""> here </a>
+Link to Interactive prototype can be found <a href="https://www.figma.com/proto/xcE8uYadsSKRI0JRrVU0fS/Interface-Design?node-id=46%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=46%3A2"> here </a>
+
+## Cognitive Walkthroughs
+Link to videos of Cognitive Walkthroughs can be found here: <a href="https://drive.google.com/file/d/1u_ayqGoPtyN8zySBJMLq1_wC0oILzr5Z/view?usp=sharing"> 1st Cognitive Walkthrough </a>, <a href="https://drive.google.com/file/d/1shIppbjdj-xqDHhLBfVKxyz8RsZFko9p/view?usp=sharing"> 2nd Cognitive Walkthrough </a>, <a href="https://drive.google.com/file/d/1icvw1uvC-fiNhn4gvR2xa2siNPW1pohR/view?usp=sharing"> 3rd Cognitive Walkthrough </a>
 
 ## Feedback
-After conducting a cognitive Walkthrough with the first user it seemed like the button icons on the home page were not uniform and seemed a little out of place, also the social media/media icons at the bottom of the pages were said to not represent them properly, and lastly one person said that there should be a type in feature for describing the encounter scene with the wildlife animal. Furthermore, in the second cognitive walkthrough the user was not very verbal in describing ways the design system could be improved however based on his mouse clicks it seemed like it was confusing as to how to get back to the homepage. He kept clicking on the departments logo and name to try to go back instead of clicking the home button at the top right of the screen. Lastly, the last user I conducted a cognitive walkthrough with gave me some critical feedback telling me that the home page is still not minimal enough, suggesting I combine categories to create less of a load on the home page, which is something I will explore further in the next revision. Additionally, he suggested emphasizing the “back” button more when going through the different pages, to make it easier for the user to navigate back and forth between pages. 
+After conducting a cognitive Walkthrough with the first user it seemed like the button icons on the home page were not uniform and seemed a little out of place, also the social media/media icons at the bottom of the pages were said to not represent them properly, and lastly one person said that there should be a type in feature for describing the encounter scene with the wildlife animal. Furthermore, in the second cognitive walkthrough the user was not very verbal in describing ways the design system could be improved however based on his mouse clicks it seemed like it was confusing as to how to get back to the homepage. He kept clicking on the departments logo and name to try to go back instead of clicking the home button at the top right of the screen, so in the interactivity design I will make sure to make the departments logo and name clickable. Lastly, the last user I conducted a cognitive walkthrough with gave me some critical feedback telling me that the home page is still not minimal enough, suggesting I combine categories to create less of a load on the home page, which is something I will explore further in the next revision. Additionally, he suggested emphasizing the “back” button more when going through the different pages, to make it easier for the user to navigate back and forth between pages. 
 
 ## Revised Interface Designs
+<img src="Button1.png" width="50%" lenghth="50%" ><img src="Button2.png" width="50%" length="50%" >
+<img src="Icons1.png" width="50%" lenght="50%" ><img src="Icon2.png" width="50%" length="50%" > 
 
 
 
