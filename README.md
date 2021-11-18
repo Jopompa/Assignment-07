@@ -7,3 +7,9 @@ The following prototype will illustrate how one can find locations at which bear
 
 The second tasks this prototype illustrates is submitting a Wildlife Encounter Report Form. To do this users must click on the Wildlife Encounter Report Form button found on the home page, which then leads them to the form. Then, since the tester is not able to type on the prototype they will pretend to fill the form out and then submit the form which will lead them to a new page where they can either go back to the form or to the home page. 
 
+## Image of Wireframe with Interface Design
+<img src="Wireframe.png"> </a> 
+This is the small frame prototype I have developed from the much larger desktop prototype I originally created in the low fidelity prototype. After conducting usability testing on the prototype I found that seamlessness and efficiency were the users main issues when trying to complete the tasks. Which is why for this prototype I made clickable buttons and information pages more direct. Additionally, I made categories and information on the home screen more concise by having pictures and titles represent the information it held, this should hopefully allow users to more easily and efficiently find what they are looking for. When it came to Wildlife Encounter Report Form I minimized the amount of information needed to be filled out and I added an automatic location pin button in case the user was not sure of the exact location they were at. I also slightly adjusted the colors so that all color contrast checks were passed. 
+
+## Image of Wireflow 
+
