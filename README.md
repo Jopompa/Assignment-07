@@ -14,3 +14,13 @@ This is the small frame prototype I have developed from the much larger desktop 
 ## Image of Wireflow 
 <img src="Wireflow.png"> </a>
 
+## Prototype 
+Link to Interactive prototype can be found <a href=""> here </a>
+
+## Feedback
+After conducting a cognitive Walkthrough with the first user it seemed like the button icons on the home page were not uniform and seemed a little out of place, also the social media/media icons at the bottom of the pages were said to not represent them properly, and lastly one person said that there should be a type in feature for describing the encounter scene with the wildlife animal. Furthermore, in the second cognitive walkthrough the user was not very verbal in describing ways the design system could be improved however based on his mouse clicks it seemed like it was confusing as to how to get back to the homepage. He kept clicking on the departments logo and name to try to go back instead of clicking the home button at the top right of the screen. Lastly, the last user I conducted a cognitive walkthrough with gave me some critical feedback telling me that the home page is still not minimal enough, suggesting I combine categories to create less of a load on the home page, which is something I will explore further in the next revision. Additionally, he suggested emphasizing the “back” button more when going through the different pages, to make it easier for the user to navigate back and forth between pages. 
+
+## Revised Interface Designs
+
+
+
